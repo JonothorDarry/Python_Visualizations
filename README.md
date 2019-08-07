@@ -1,3 +1,3 @@
-# Wizualizacje_Python
+# Python_Visualizations
 
-W tym pliku znajdują się moje wizualizacje różnych dataframe'ów - poligon doświadczalny do eksperymentowania z matplotlibem/seabornem.
+In this file are my visualizatio from various datasets in python (matplotlib+seaborn)
