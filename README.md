@@ -1,3 +1,3 @@
 # Python_Visualizations
 
-In this file are my visualizatio from various datasets in python (matplotlib+seaborn)
+In this file are my visualizations from various datasets in python (matplotlib+seaborn)
